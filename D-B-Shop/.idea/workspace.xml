@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bf30b9e-f15c-43b6-96c6-19e00d19cb42" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ute/shop/controller/customer/CustomerManageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ute/shop/controller/customer/CustomerManageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/accounts/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/accounts/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/dashboardLayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/dashboardLayout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/dashboardLayout2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/dashboardLayout2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/fragments/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/fragments/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/fragments/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/fragments/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/accountLayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/site/accountLayout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/accounts/forgotPassword.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/site/accounts/forgotPassword.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/accounts/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/site/accounts/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/accounts/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/site/accounts/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/fragments/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/site/fragments/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/fragments/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/site/fragments/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/fragments/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/site/fragments/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/fragments/slider.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/site/fragments/slider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/site/homeLayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/site/homeLayout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/ServletInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/ServletInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/TeachWebShopApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/TeachWebShopApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/config/AuthenticationInterceptorConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/config/AuthenticationInterceptorConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/config/StorageProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/config/StorageProperties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/AdminLoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/AdminLoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/admin/AccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/admin/AccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/admin/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/admin/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/admin/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/admin/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/admin/OrderControlller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/admin/OrderControlller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/admin/OrderDetailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/admin/OrderDetailController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/admin/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/admin/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/admin/SupplierController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/admin/SupplierController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/customer/CustomerLoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/customer/CustomerLoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/customer/CustomerManageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/customer/CustomerManageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/customer/CustomerOrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/customer/CustomerOrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/customer/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/controller/customer/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/CartItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/CartItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/OrderDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/OrderDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/Supplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/domain/Supplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/exception/StorageExeception.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/exception/StorageExeception.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/exception/StorageFileNotFoundExeception.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/exception/StorageFileNotFoundExeception.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/interceptor/AdminAuthenticationInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/interceptor/AdminAuthenticationInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/model/AccountDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/model/AccountDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/model/AdminLoginDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/model/AdminLoginDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/model/CategoryDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/model/CategoryDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/model/CustomerDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/model/CustomerDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/model/CustomerLoginDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/model/CustomerLoginDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/model/ForgotCustomerDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/model/ForgotCustomerDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/model/OrderDetailDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/model/OrderDetailDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/model/OrderDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/model/OrderDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/model/ProductDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/model/ProductDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/model/SupplierDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/model/SupplierDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/repository/AccountRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/repository/AccountRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/repository/CategoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/repository/CategoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/repository/CustomerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/repository/CustomerRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/repository/OrderDetailRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/repository/OrderDetailRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/repository/OrderRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/repository/OrderRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/repository/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/repository/ProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/repository/SupplierRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/repository/SupplierRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/CookieService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/CookieService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/OrderDetailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/OrderDetailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/ShoppingCartService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/ShoppingCartService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/StorageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/StorageService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/SupplierService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/SupplierService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/CookieServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/CookieServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/CustomerServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/FileSystemStorageServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/FileSystemStorageServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/OrderDetailServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/OrderDetailServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/ShoppingCartServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/ShoppingCartServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/SupplierServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ute/shop/service/impl/SupplierServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/accounts/addOrEdit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/accounts/addOrEdit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/accounts/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/accounts/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/categories/addOrEdit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/categories/addOrEdit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/categories/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/categories/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/categories/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/categories/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/categories/searchpaginated.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/categories/searchpaginated.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/customers/addOrEdit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/customers/addOrEdit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/customers/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/customers/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/dashboardLayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/dashboardLayout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/dashboardLayout2.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/dashboardLayout2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/orderdetails/addOrEdit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/orderdetails/addOrEdit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/orders/addOrEdit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/orders/addOrEdit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/products/addOrEdit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/products/addOrEdit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/products/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/products/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/suppliers/addOrEdit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/suppliers/addOrEdit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/suppliers/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/suppliers/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ZnYc0p72tGcPVzcOHTlAqqNylW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Documents/GitHub/Cloud/CloudProject/D-B-Shop&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="TeachWebShopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="teach-webShop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ute.shop.TeachWebShopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bf30b9e-f15c-43b6-96c6-19e00d19cb42" name="Changes" comment="" />
+      <created>1703059388518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703059388518</updated>
+      <workItem from="1703059389446" duration="202000" />
+      <workItem from="1703060211965" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

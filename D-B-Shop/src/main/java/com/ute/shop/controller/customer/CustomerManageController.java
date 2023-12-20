@@ -55,7 +55,7 @@ public class CustomerManageController {
 			model.addAttribute("customer",customerDto);
 			List<Order> list = orderService.findByCustomer(entity);
 			model.addAttribute("orders", list);
-			return new ModelAndView("site/accounts/manageAccount",model);
+			return new ModelAndView("/site/accounts/manageAccount",model);
 		}
 		return new ModelAndView( "forward:/cregister",model);
 	}
@@ -64,7 +64,7 @@ public class CustomerManageController {
 		@Valid @ModelAttribute("customer") CustomerDto customerDto, BindingResult bindingResult) {
 		Integer customerId = (Integer) session.getAttribute("customerId");
 		if(bindingResult.hasErrors()) {
-			return new ModelAndView("site/accounts/manageAccount");
+			return new ModelAndView("/site/accounts/manageAccount");
 		}
 		if(customerId == null) {
 			return new ModelAndView( "forward:/cregister",model);
@@ -82,7 +82,7 @@ public class CustomerManageController {
 	public String forgotPassword(ModelMap model) {
 		ForgotCustomerDto entity = new ForgotCustomerDto();
 		model.addAttribute("customer", entity);
-		return "site/accounts/forgotPassword";
+		return "/site/accounts/forgotPassword";
 				
 	}
 	@PostMapping("forgotPassword")
@@ -91,7 +91,7 @@ public class CustomerManageController {
 			BindingResult bindingResult) {
 		//ForgotCustomerDto entity = new ForgotCustomerDto();'
 		if(bindingResult.hasErrors()) {
-			return new ModelAndView("site/accounts/forgotPassword");
+			return new ModelAndView("/site/accounts/forgotPassword");
 		}
 		Optional<Customer> entity = customerService.findByPhoneAndEmail(customerDto.getPhone(),customerDto.getEmail());
 		if(entity.isPresent()) {
@@ -104,7 +104,7 @@ public class CustomerManageController {
 			return new ModelAndView( "forward:/",model);
 		}
 		model.addAttribute("message","Customer not exited");
-		return new ModelAndView("site/accounts/forgotPassword",model);
+		return new ModelAndView("/site/accounts/forgotPassword",model);
 				
 	}
 	@RequestMapping("/cancelOrder/{orderId}")
